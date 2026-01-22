@@ -16,7 +16,7 @@ Web Developer in Training | Myth & Multiverse Nerd
 
 Egal wo ich bin, ich erschaffe etwas. 
 Wenn ich nicht Bugs jage wie Artemis ihre Beute, schreibe ich Geschichten oder entwerfe neue Welten auf dem Papier. 
-Ich kann komplexe Probleme in handfeste Lösungen verwandeln.
+Ich gebe 100% um komplexe Probleme in handfeste Lösungen zu verwandeln.
 
 ![Problem solved](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t5enpta3cxemIwdDVlZTljZXZ3cTI2aDA4NWFyNXFnZG5wY3FvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ztzt8zhmmpVPUiSNMX/giphy.gif)
 
@@ -24,11 +24,15 @@ Ich kann komplexe Probleme in handfeste Lösungen verwandeln.
 
 ```html
  <h3>CALL FOR BACKUP!</h3>
-  <p> Auf der Suche nach jemanden der Mitdenkt? Oder willst du wissen, warum <code>Batman</code> gegen <code>Achill</code> gewinnen würde?</p>
+  <p> Auf der Suche nach jemanden der Mitdenkt? Oder willst du wissen,
+      warum <code>Batman</code> gegen <code>Achill</code> gewinnen würde?</p>
+
   <ul>
+
     <li><strong>Dein Sidekick bei:</strong> Web Entwicklung </li>
-    <li><strong>Deep Talk:</strong> Marvel & DC , griechische Epen, handwerkliche Hacks & Fußball</li>
+    <li><strong>Deep Talk:</strong> Marvel & DC, griechische Mythologie, handwerkliche Hacks & Fußball</li>
     <li><strong>Status:</strong> Immer bereit für neue Projekte</li>
+
   </ul>
 
 ```
