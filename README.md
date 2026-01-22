@@ -7,7 +7,7 @@ Web Developer in Training | Myth & Multiverse Nerd
 ### MEIN MULTIVERSIUM
 | Power Source | Das bedeutet: |
 | :--- | :--- |
-| **Griech. Mythologie** | Strategie wie Athene, Ausdauer wie Herkules. |
+| **Griech. Mythologie** | Strategie wie `Athene`, Ausdauer wie `Herkules.` |
 | **Marvel / DC** | Suche nach der perfekten `Origin Story` für jedes Projekt. |
 | **Handwerk & Kunst** | `Pixel Perfektionismus.` Wenn es nicht stabil ist, wird es nicht veröffentlicht. |
 | **Fußball** | Alleine bist du schnell, im Team bist du unschlagbar. |
