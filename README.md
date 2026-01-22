@@ -5,11 +5,11 @@ Web Developer in Training | Myth & Multiverse Nerd
 ### Ich komme aus der Welt des Handwerks, Schreibens und des Zeichnens, für mich ist eine Website eine Skulptur, die zum Leben erweckt wird.
 
 ### MEIN MULTIVERSIUM
-| Power-Source | Das bedeutet ... |
+| Power Source | Das bedeutet: |
 | :--- | :--- |
 | **Griech. Mythologie** | Strategie wie Athene, Ausdauer wie Herkules. |
 | **Marvel / DC** | Suche nach der perfekten `Origin Story` für jedes Projekt. |
-| **Handwerk & Kunst** | Pixel Perfektionismus. Wenn es nicht stabil ist, wird es nicht veröffentlicht. |
+| **Handwerk & Kunst** | `Pixel Perfektionismus.` Wenn es nicht stabil ist, wird es nicht veröffentlicht. |
 | **Fußball** | Alleine bist du schnell, im Team bist du unschlagbar. |
 
 ---
